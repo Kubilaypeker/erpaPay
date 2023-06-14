@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "940408505005",
+    "project_id": "erpapay-6aae3",
+    "storage_bucket": "erpapay-6aae3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940408505005:android:2fce26a28c9a3ea75b7c24",
+        "android_client_info": {
+          "package_name": "com.example.erpapay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940408505005-qfqm43j7ekbsl9prue4dghru31o6g1sj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBySZgyCXCwrDCzCeXDet_sOh8sNXcFLDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940408505005-qfqm43j7ekbsl9prue4dghru31o6g1sj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
